@@ -1,0 +1,52 @@
+C:\Users\aluno\source\repos\Trab 4 Bim\Trab 4 Bim\bin\Debug\Trab 4 Bim.exe.config
+C:\Users\aluno\source\repos\Trab 4 Bim\Trab 4 Bim\bin\Debug\Trab 4 Bim.exe
+C:\Users\aluno\source\repos\Trab 4 Bim\Trab 4 Bim\bin\Debug\Trab 4 Bim.pdb
+C:\Users\aluno\source\repos\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab 4 Bim.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab_4_Bim.FIncluir.resources
+C:\Users\aluno\source\repos\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab_4_Bim.Form1.resources
+C:\Users\aluno\source\repos\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab_4_Bim.Properties.Resources.resources
+C:\Users\aluno\source\repos\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab 4 Bim.csproj.GenerateResource.Cache
+C:\Users\aluno\source\repos\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab 4 Bim.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab 4 Bim.exe
+C:\Users\aluno\source\repos\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab 4 Bim.pdb
+C:\Users\aluno\source\repos\Trab 4 Bim\Trab 4 Bim\bin\Debug\EntityFramework.dll
+C:\Users\aluno\source\repos\Trab 4 Bim\Trab 4 Bim\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\source\repos\Trab 4 Bim\Trab 4 Bim\bin\Debug\EntityFramework.xml
+C:\Users\aluno\source\repos\Trab 4 Bim\Trab 4 Bim\bin\Debug\EntityFramework.SqlServer.xml
+D:\AEP\Trab 4 Bim\Trab 4 Bim\bin\Debug\Trab 4 Bim.exe.config
+D:\AEP\Trab 4 Bim\Trab 4 Bim\bin\Debug\Trab 4 Bim.exe
+D:\AEP\Trab 4 Bim\Trab 4 Bim\bin\Debug\Trab 4 Bim.pdb
+D:\AEP\Trab 4 Bim\Trab 4 Bim\bin\Debug\EntityFramework.dll
+D:\AEP\Trab 4 Bim\Trab 4 Bim\bin\Debug\EntityFramework.SqlServer.dll
+D:\AEP\Trab 4 Bim\Trab 4 Bim\bin\Debug\EntityFramework.xml
+D:\AEP\Trab 4 Bim\Trab 4 Bim\bin\Debug\EntityFramework.SqlServer.xml
+D:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab 4 Bim.csprojResolveAssemblyReference.cache
+D:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab_4_Bim.FIncluir.resources
+D:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab_4_Bim.Form1.resources
+D:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab_4_Bim.Properties.Resources.resources
+D:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab 4 Bim.csproj.GenerateResource.Cache
+D:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab 4 Bim.csproj.CoreCompileInputs.cache
+D:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab 4 Bim.exe
+D:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab 4 Bim.pdb
+D:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab_4_Bim.FRelatório.resources
+D:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab_4_Bim.FDespesasporPeriodo.resources
+D:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab_4_Bim.FGrafico.resources
+F:\AEP\Trab 4 Bim\Trab 4 Bim\bin\Debug\Trab 4 Bim.exe.config
+F:\AEP\Trab 4 Bim\Trab 4 Bim\bin\Debug\Trab 4 Bim.exe
+F:\AEP\Trab 4 Bim\Trab 4 Bim\bin\Debug\Trab 4 Bim.pdb
+F:\AEP\Trab 4 Bim\Trab 4 Bim\bin\Debug\EntityFramework.dll
+F:\AEP\Trab 4 Bim\Trab 4 Bim\bin\Debug\EntityFramework.SqlServer.dll
+F:\AEP\Trab 4 Bim\Trab 4 Bim\bin\Debug\EntityFramework.xml
+F:\AEP\Trab 4 Bim\Trab 4 Bim\bin\Debug\EntityFramework.SqlServer.xml
+F:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab 4 Bim.csprojResolveAssemblyReference.cache
+F:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab_4_Bim.FDespesasporPeriodo.resources
+F:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab_4_Bim.FGrafico.resources
+F:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab_4_Bim.FIncluir.resources
+F:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab_4_Bim.Form1.resources
+F:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab_4_Bim.FRelatório.resources
+F:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab_4_Bim.Properties.Resources.resources
+F:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab 4 Bim.csproj.GenerateResource.Cache
+F:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab 4 Bim.csproj.CoreCompileInputs.cache
+F:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab 4 Bim.exe
+F:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab 4 Bim.pdb
+F:\AEP\Trab 4 Bim\Trab 4 Bim\obj\Debug\Trab 4 Bim.csproj.CopyComplete
